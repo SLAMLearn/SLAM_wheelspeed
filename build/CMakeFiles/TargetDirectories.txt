@@ -1,8 +1,0 @@
-/home/lucky/Momenta/momenta_slam/build/CMakeFiles/rebuild_cache.dir
-/home/lucky/Momenta/momenta_slam/build/CMakeFiles/edit_cache.dir
-/home/lucky/Momenta/momenta_slam/build/src/CMakeFiles/rebuild_cache.dir
-/home/lucky/Momenta/momenta_slam/build/src/CMakeFiles/edit_cache.dir
-/home/lucky/Momenta/momenta_slam/build/src/CMakeFiles/myslam.dir
-/home/lucky/Momenta/momenta_slam/build/test/CMakeFiles/rebuild_cache.dir
-/home/lucky/Momenta/momenta_slam/build/test/CMakeFiles/edit_cache.dir
-/home/lucky/Momenta/momenta_slam/build/test/CMakeFiles/run_vo.dir
